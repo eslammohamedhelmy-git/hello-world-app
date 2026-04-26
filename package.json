@@ -1,0 +1,19 @@
+{
+  "name": "node-hello-assignment",
+  "version": "1.0.0",
+  "description": "Hello World Node.js app for DevOps hiring assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint . --max-warnings=0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.25.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
