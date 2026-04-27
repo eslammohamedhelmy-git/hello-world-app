@@ -23,9 +23,6 @@ The goal of this project is to demonstrate a simple but complete DevOps workflow
 - [Deploy the Container Locally Using Terraform](#deploy-the-container-locally-using-terraform)
 - [Terraform Outputs](#terraform-outputs)
 - [Access the Website After Deployment](#access-the-website-after-deployment)
-- [Troubleshooting](#troubleshooting)
-- [Assumptions](#assumptions)
-- [Future Improvements](#future-improvements)
 
 ---
 
